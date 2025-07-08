@@ -61,8 +61,8 @@ const Index = () => {
       <section className="py-16">
         <div className="container mx-auto px-6 text-center">
           <img
-            src="/img/cdf20fb8-9bbd-48ac-9d76-f89ce4920284.jpg"
-            alt="Ремонт микроволновок"
+            src="/img/0d567070-dede-41f1-a8a5-b2dc99919b40.jpg"
+            alt="Профессиональный ремонт микроволновок"
             className="mx-auto rounded-lg shadow-lg max-w-md w-full"
           />
         </div>
